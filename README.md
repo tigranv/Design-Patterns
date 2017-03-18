@@ -1,18 +1,26 @@
-# Design-Patterns 
+# Design-Patterns <img src="https://cloud.githubusercontent.com/assets/24522089/21962098/41a510c8-db36-11e6-95ef-eb392a0a1919.png" align="right" width="130px" height="130px" /> 
 
 [Design patterns](https://en.wikipedia.org/wiki/Design_Patterns) are solutions to software design problems you find again and again in real-world application development. Patterns are about reusable designs and interactions of objects.
 
 The 23 [Gang of Four (GoF)](http://wiki.c2.com/?GangOfFour) patterns are generally considered the foundation for all other patterns. They are categorized in three groups: **Creational, Structural, and Behavioral**
 
 
+|Creational Patterns  |  |
+| ----------| ---------------------------------- |
+| Abstract Factory |Creates an instance of several families of classes  | 
+|Builder |Separates object construction from its representation  | 
+|Factory Method |	Creates an instance of several derived classes  | 
+| Prototype |A fully initialized instance to be copied or cloned  | 
+| Singleton |	A class of which only a single instance can exist  | 
+---------------------------------------------------------------------------------
 
-Creational Patterns
-  Abstract Factory	Creates an instance of several families of classes
-  Builder	Separates object construction from its representation
-  Factory Method	Creates an instance of several derived classes
-  Prototype	A fully initialized instance to be copied or cloned
-  Singleton	A class of which only a single instance can exist
 
+
+
+  	
+  
+ 	
+ 
 Structural Patterns
   Adapter	Match interfaces of different classes
   Bridge	Separates an object’s interface from its implementation
