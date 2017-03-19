@@ -9,7 +9,7 @@ The 23 [Gang of Four (GoF)](http://wiki.c2.com/?GangOfFour) patterns are general
 |[Creational Patterns](https://github.com/tigranv/Design_Patterns/tree/master/Creational%20Patterns)  |  |
 | ----------| ---------------------------------- |
 | [Abstract Factory](https://github.com/tigranv/Design-Patterns/tree/master/Creational%20Patterns/Abstract%20Factory) |Creates an instance of several families of classes  | 
-|[Builder]() |Separates object construction from its representation  | 
+|[Builder](https://github.com/tigranv/Design-Patterns/tree/master/Creational%20Patterns/Builder) |Separates object construction from its representation  | 
 |[Factory Method]() |	Creates an instance of several derived classes  | 
 | [Prototype]() |A fully initialized instance to be copied or cloned  | 
 | [Singleton]() |	A class of which only a single instance can exist  | 
