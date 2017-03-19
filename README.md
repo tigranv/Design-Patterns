@@ -23,8 +23,8 @@ The 23 [Gang of Four (GoF)](http://wiki.c2.com/?GangOfFour) patterns are general
 |[Composite]() |A tree structure of simple and composite objects | 
 | [Decorator]() |Add responsibilities to objects dynamically | 
 |[Facade]() |A single class that represents an entire subsystem | 
-|Flyweight |A fine-grained instance used for efficient sharing | 
-|Proxy |An object representing another object | 
+|[Flyweight]() |A fine-grained instance used for efficient sharing | 
+|[Proxy]() |An object representing another object | 
 
 ------------------------------------------------------------------------------------
  	
