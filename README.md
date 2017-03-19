@@ -1,4 +1,4 @@
-# Design-Patterns <img src="https://cloud.githubusercontent.com/assets/24522089/21962098/41a510c8-db36-11e6-95ef-eb392a0a1919.png" align="right" width="130px" height="130px" /> 
+# Design Patterns <img src="https://cloud.githubusercontent.com/assets/24522089/21962098/41a510c8-db36-11e6-95ef-eb392a0a1919.png" align="right" width="130px" height="130px" /> 
 
 [Design patterns](https://en.wikipedia.org/wiki/Design_Patterns) are solutions to software design problems you find again and again in real-world application development. Patterns are about reusable designs and interactions of objects.
 
@@ -6,30 +6,30 @@ The 23 [Gang of Four (GoF)](http://wiki.c2.com/?GangOfFour) patterns are general
 
 --------------------------------------------------------------------------------
 
-|Creational Patterns  |  |
+|[Creational Patterns](https://github.com/tigranv/Design_Patterns/tree/master/Creational%20Patterns)  |  |
 | ----------| ---------------------------------- |
-| Abstract Factory |Creates an instance of several families of classes  | 
-|Builder |Separates object construction from its representation  | 
-|Factory Method |	Creates an instance of several derived classes  | 
-| Prototype |A fully initialized instance to be copied or cloned  | 
-| Singleton |	A class of which only a single instance can exist  | 
+| [Abstract Factory]() |Creates an instance of several families of classes  | 
+|[Builder]() |Separates object construction from its representation  | 
+|[Factory Method]() |	Creates an instance of several derived classes  | 
+| [Prototype]() |A fully initialized instance to be copied or cloned  | 
+| [Singleton]() |	A class of which only a single instance can exist  | 
 ---------------------------------------------------------------------------------
 
 
-|Structural Patterns  |  |
+|[Structural Patterns](https://github.com/tigranv/Design_Patterns/tree/master/Structural%20Patterns)  |  |
 | ----------| ---------------------------------- |
-|  Adapter |Match interfaces of different classes | 
-| Bridge |Separates an object’s interface from its implementation | 
-|Composite |A tree structure of simple and composite objects | 
-| Decorator |Add responsibilities to objects dynamically | 
-|Facade |A single class that represents an entire subsystem | 
-|Flyweight |A fine-grained instance used for efficient sharing | 
-|Proxy |An object representing another object | 
+|  [Adapter]() |Match interfaces of different classes | 
+| [Bridge]() |Separates an object’s interface from its implementation | 
+|[Composite]() |A tree structure of simple and composite objects | 
+| [Decorator]() |Add responsibilities to objects dynamically | 
+|[Facade]() |A single class that represents an entire subsystem | 
+|[Flyweight]() |A fine-grained instance used for efficient sharing | 
+|[Proxy]() |An object representing another object | 
 
 ------------------------------------------------------------------------------------
  	
  	
-|Behavioral Patterns |  |
+|[Behavioral Patterns](https://github.com/tigranv/Design_Patterns/tree/master/Behavioral%20Patterns) |  |
 | ----------| ---------------------------------- |
 |Chain of Resp|	A way of passing a request between a chain of objects|
 |Command|	Encapsulate a command request as an object|
