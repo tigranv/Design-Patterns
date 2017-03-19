@@ -19,3 +19,9 @@ The classes and objects participating in this pattern are:
 
 **Client**  (AnimalWorld)
 * uses interfaces declared by AbstractFactory and AbstractProduct classes
+
+
+
+
+
+> This Project written on C# 6.0, .NET Framework 4.6 Visual Studio 2015 Comunity Edition
