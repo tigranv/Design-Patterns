@@ -1,8 +1,8 @@
 # Builder
 
-> Frequency of use: **Medium low**
-
 ![builder](https://cloud.githubusercontent.com/assets/24522089/24085020/e5b59490-0d0d-11e7-9722-c1401bbb7c2e.png)
+
+> Frequency of use: **Medium low**
 
 ### The classes and objects participating in this pattern are:
 
