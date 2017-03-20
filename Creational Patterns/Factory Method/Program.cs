@@ -10,6 +10,13 @@ namespace Factory_Method
     {
         static void Main(string[] args)
         {
+            Creator creator = null;
+            Product product = null;
+
+            creator = new ConcreteCreator();
+            product = creator.FactoryMethod();
+
+            creator.AnOperation();
         }
     }
 }
