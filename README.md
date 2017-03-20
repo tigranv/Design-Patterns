@@ -8,23 +8,23 @@ The 23 [Gang of Four (GoF)](http://wiki.c2.com/?GangOfFour) patterns are general
 
 |[Creational Patterns](https://github.com/tigranv/Design_Patterns/tree/master/Creational%20Patterns)  |  |
 | ----------| ---------------------------------- |
-| [Abstract Factory]() |Creates an instance of several families of classes  | 
-|[Builder]() |Separates object construction from its representation  | 
-|[Factory Method]() |	Creates an instance of several derived classes  | 
-| [Prototype]() |A fully initialized instance to be copied or cloned  | 
-| [Singleton]() |	A class of which only a single instance can exist  | 
+| [Abstract Factory](https://github.com/tigranv/Design-Patterns/tree/master/Creational%20Patterns/Abstract%20Factory) |Creates an instance of several families of classes  | 
+|[Builder](https://github.com/tigranv/Design-Patterns/tree/master/Creational%20Patterns/Builder) |Separates object construction from its representation  | 
+|Factory Method |	Creates an instance of several derived classes  | 
+| Prototype |A fully initialized instance to be copied or cloned  | 
+| Singleton |	A class of which only a single instance can exist  | 
 ---------------------------------------------------------------------------------
 
 
 |[Structural Patterns](https://github.com/tigranv/Design_Patterns/tree/master/Structural%20Patterns)  |  |
 | ----------| ---------------------------------- |
-|  [Adapter]() |Match interfaces of different classes | 
-| [Bridge]() |Separates an object’s interface from its implementation | 
-|[Composite]() |A tree structure of simple and composite objects | 
-| [Decorator]() |Add responsibilities to objects dynamically | 
-|[Facade]() |A single class that represents an entire subsystem | 
-|[Flyweight]() |A fine-grained instance used for efficient sharing | 
-|[Proxy]() |An object representing another object | 
+|  Adapter |Match interfaces of different classes | 
+| Bridge |Separates an object’s interface from its implementation | 
+|Composite |A tree structure of simple and composite objects | 
+| Decorator |Add responsibilities to objects dynamically | 
+|Facade |A single class that represents an entire subsystem | 
+|Flyweight |A fine-grained instance used for efficient sharing | 
+|Proxy |An object representing another object | 
 
 ------------------------------------------------------------------------------------
  	
