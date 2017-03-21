@@ -1,5 +1,6 @@
 # Proxy
 
+![proxy](https://cloud.githubusercontent.com/assets/24522089/24169979/b3a679c4-0e98-11e7-9775-e468994f2d03.png)
 
 > Frequency of use: **Medium**
 
