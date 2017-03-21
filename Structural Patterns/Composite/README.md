@@ -1,5 +1,6 @@
 # Composite
 
+![composite](https://cloud.githubusercontent.com/assets/24522089/24169933/83439b36-0e98-11e7-9894-96acf41a7c2e.png)
 
 > Frequency of use: ****
 
