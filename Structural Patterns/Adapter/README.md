@@ -5,7 +5,7 @@
 > Frequency of use: **Medium high**
 
 
-The classes and objects participating in this pattern are:
+### The classes and objects participating in this pattern are:
 
 **Target**  (ChemicalCompound)
 * defines the domain-specific interface that Client uses.
@@ -18,3 +18,8 @@ The classes and objects participating in this pattern are:
 
 **Client**   (AdapterApp)
 * collaborates with objects conforming to the Target interface.
+
+
+
+-------------------------------------------------------------------------------------------------
+> This project written on C# 6.0, .NET Framework 4.6 Visual Studio 2015 Comunity Edition
