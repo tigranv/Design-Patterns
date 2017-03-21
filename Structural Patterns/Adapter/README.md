@@ -7,7 +7,7 @@
 
 The classes and objects participating in this pattern are:
 
-**Target **  (ChemicalCompound)
+**Target**  (ChemicalCompound)
 * defines the domain-specific interface that Client uses.
 
 **Adapter**   (Compound)
