@@ -3,8 +3,34 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 14
 VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Adapter", "Adapter", "{240E8948-9C1E-425B-9BC2-F3718F8A58F3}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Bridge", "Bridge", "{92F7E1C0-D894-400B-AB77-8B30048FD441}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Adapter", "Adapter\Adapter.csproj", "{15CB06AE-BE45-4413-8E13-6FFCAA30D125}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bridge", "Bridge\Bridge.csproj", "{0DA385C3-7F7A-48B7-931C-5B4D7F24532F}"
+EndProject
 Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{15CB06AE-BE45-4413-8E13-6FFCAA30D125}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{15CB06AE-BE45-4413-8E13-6FFCAA30D125}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{15CB06AE-BE45-4413-8E13-6FFCAA30D125}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{15CB06AE-BE45-4413-8E13-6FFCAA30D125}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0DA385C3-7F7A-48B7-931C-5B4D7F24532F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0DA385C3-7F7A-48B7-931C-5B4D7F24532F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0DA385C3-7F7A-48B7-931C-5B4D7F24532F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0DA385C3-7F7A-48B7-931C-5B4D7F24532F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{15CB06AE-BE45-4413-8E13-6FFCAA30D125} = {240E8948-9C1E-425B-9BC2-F3718F8A58F3}
+		{0DA385C3-7F7A-48B7-931C-5B4D7F24532F} = {92F7E1C0-D894-400B-AB77-8B30048FD441}
 	EndGlobalSection
 EndGlobal
