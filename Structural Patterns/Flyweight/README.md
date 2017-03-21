@@ -1,5 +1,7 @@
 # Flyweight
 
+![flyweight](https://cloud.githubusercontent.com/assets/24522089/24169971/a5b05d1c-0e98-11e7-919c-f94a8e85a90f.png)
+
 
 > Frequency of use: ****
 
