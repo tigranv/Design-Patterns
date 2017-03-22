@@ -24,7 +24,7 @@ The 23 [Gang of Four (GoF)](http://wiki.c2.com/?GangOfFour) patterns are general
 | [Decorator](https://github.com/tigranv/Design-Patterns/tree/master/Structural%20Patterns/Decorator) |Add responsibilities to objects dynamically | 
 |[Facade](https://github.com/tigranv/Design-Patterns/tree/master/Structural%20Patterns/Facade) |A single class that represents an entire subsystem | 
 |[Flyweight](https://github.com/tigranv/Design-Patterns/tree/master/Structural%20Patterns/Flyweight) |A fine-grained instance used for efficient sharing | 
-|Proxy |An object representing another object | 
+|[Proxy](https://github.com/tigranv/Design-Patterns/tree/master/Structural%20Patterns/Proxy) |An object representing another object | 
 
 ------------------------------------------------------------------------------------
  	
