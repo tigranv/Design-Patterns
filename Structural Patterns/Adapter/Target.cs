@@ -6,7 +6,8 @@ using System.Threading.Tasks;
 
 namespace Adapter
 {
-    class Target
+    abstract class Target
     {
+        public abstract void Request();
     }
 }
