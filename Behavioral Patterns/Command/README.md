@@ -1,5 +1,7 @@
 # Command
 
+Encapsulate a request as an object, thereby letting you parameterize clients with different requests, queue or log requests, and support undoable operations.
+
 ![command](https://cloud.githubusercontent.com/assets/24522089/24660159/d9a8ab84-195f-11e7-94ac-16e51b9fbcd3.png)
 
 
@@ -7,8 +9,8 @@
 
 ### The classes and objects participating in this pattern are:
 
-**Builder**  (VehicleBuilder)
-* specifies an abstract interface for creating parts of a Product object
+**Command**  (Command)
+* declares an interface for executing an operation
 
 **ConcreteBuilder**  (MotorCycleBuilder, CarBuilder, ScooterBuilder)
 * constructs and assembles parts of the product by implementing the Builder interface
