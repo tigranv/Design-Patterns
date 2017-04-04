@@ -12,17 +12,18 @@ Encapsulate a request as an object, thereby letting you parameterize clients wit
 **Command**  (Command)
 * declares an interface for executing an operation
 
-**ConcreteBuilder**  (MotorCycleBuilder, CarBuilder, ScooterBuilder)
-* constructs and assembles parts of the product by implementing the Builder interface
-* defines and keeps track of the representation it creates
-* provides an interface for retrieving the product
+**ConcreteCommand**  (CalculatorCommand)
+* defines a binding between a Receiver object and an action
+* implements Execute by invoking the corresponding operation(s) on Receiver
 
-**Director**  (Shop)
-* constructs an object using the Builder interface
+**Client**  (CommandApp)
+* creates a ConcreteCommand object and sets its receiver
 
-**Product**  (Vehicle)
-* represents the complex object under construction. ConcreteBuilder builds the product's internal representation and defines the process by which it's assembled
-* includes classes that define the constituent parts, including interfaces for assembling the parts into the final result
+**Invoker**  (User)
+* asks the command to carry out the request
+
+**Receiver**  (Calculator)
+* knows how to perform the operations associated with carrying out the request.
 
 ----------------------------------------------------------------------------------------------------------------
 > This project written on C# 6.0, .NET Framework 4.6 Visual Studio 2015 Comunity Edition
