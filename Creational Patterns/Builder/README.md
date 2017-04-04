@@ -1,5 +1,7 @@
 # Builder
 
+Separate the construction of a complex object from its representation so that the same construction process can create different representations.
+
 ![builder](https://cloud.githubusercontent.com/assets/24522089/24085020/e5b59490-0d0d-11e7-9722-c1401bbb7c2e.png)
 
 > Frequency of use: **Medium low**
