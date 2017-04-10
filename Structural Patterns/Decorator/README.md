@@ -1,5 +1,7 @@
 # Decorator
 
+Attach additional responsibilities to an object dynamically. Decorators provide a flexible alternative to subclassing for extending functionality.
+
 ![decorator](https://cloud.githubusercontent.com/assets/24522089/24169945/90478c70-0e98-11e7-92f9-a020b9904ab8.png)
 
 > Frequency of use: **Medium**
