@@ -17,6 +17,8 @@ Avoid coupling the sender of a request to its receiver by giving more than one o
 * can access its successor
 * if the ConcreteHandler can handle the request, it does so; otherwise it forwards the request to its successor
 
+**Client**   (ChainApp)
+* initiates the request to a ConcreteHandler object on the chain
 
 -------------------------------------------------------------------------------------------
 
