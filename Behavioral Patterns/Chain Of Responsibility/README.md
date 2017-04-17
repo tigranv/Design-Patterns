@@ -1,6 +1,6 @@
 # Chain Of Responsibility
 
-Provide an interface for creating families of related or dependent objects without specifying their concrete classes.
+Avoid coupling the sender of a request to its receiver by giving more than one object a chance to handle the request. Chain the receiving objects and pass the request along the chain until an object handles it.
 
 ![chainofresponsibility](https://cloud.githubusercontent.com/assets/24522089/25088692/3d1812b2-2389-11e7-8bb7-7df1ee58813a.png)
 
