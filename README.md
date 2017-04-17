@@ -31,7 +31,7 @@ The 23 [Gang of Four (GoF)](http://wiki.c2.com/?GangOfFour) patterns are general
  	
 |[Behavioral Patterns](https://github.com/tigranv/Design_Patterns/tree/master/Behavioral%20Patterns) |  |
 | ----------| ---------------------------------- |
-|Chain of Resp|	A way of passing a request between a chain of objects|
+|[Chain of Resp](https://github.com/tigranv/Design-Patterns/tree/master/Behavioral%20Patterns/Chain%20Of%20Responsibility)|	A way of passing a request between a chain of objects|
 |[Command](https://github.com/tigranv/Design-Patterns/tree/master/Behavioral%20Patterns/Command)|	Encapsulate a command request as an object|
 |Interpreter|	A way to include language elements in a program|
 |Iterator|	Sequentially access the elements of a collection|
