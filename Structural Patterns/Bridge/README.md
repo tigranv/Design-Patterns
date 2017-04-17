@@ -1,5 +1,7 @@
 # Bridge
 
+Decouple an abstraction from its implementation so that the two can vary independently.
+
 ![bridge](https://cloud.githubusercontent.com/assets/24522089/24169915/77a934ac-0e98-11e7-9902-d423f3a2a71f.png)
 
 > Frequency of use: **Medium**

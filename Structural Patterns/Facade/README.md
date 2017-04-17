@@ -1,5 +1,7 @@
 # Facade
 
+Provide a unified interface to a set of interfaces in a subsystem. Façade defines a higher-level interface that makes the subsystem easier to use.
+
 ![facade](https://cloud.githubusercontent.com/assets/24522089/24169959/9aa561d8-0e98-11e7-8d2a-2db364eb76e5.png)
 
 > Frequency of use: **High**

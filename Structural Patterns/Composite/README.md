@@ -1,5 +1,7 @@
 # Composite
 
+Compose objects into tree structures to represent part-whole hierarchies. Composite lets clients treat individual objects and compositions of objects uniformly.
+
 ![composite](https://cloud.githubusercontent.com/assets/24522089/24169933/83439b36-0e98-11e7-9894-96acf41a7c2e.png)
 
 > Frequency of use: **Medium high**
