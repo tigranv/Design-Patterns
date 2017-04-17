@@ -2,7 +2,7 @@
 
 Provide an interface for creating families of related or dependent objects without specifying their concrete classes.
 
-![abstract factory](https://cloud.githubusercontent.com/assets/24522089/24084888/bfb02d8e-0d0b-11e7-9e10-4788a5731225.png)
+![chainofresponsibility](https://cloud.githubusercontent.com/assets/24522089/25088692/3d1812b2-2389-11e7-8bb7-7df1ee58813a.png)
 
 > Frequency of use: **High**
 
