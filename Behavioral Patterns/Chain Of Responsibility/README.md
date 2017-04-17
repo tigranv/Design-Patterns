@@ -4,7 +4,7 @@ Avoid coupling the sender of a request to its receiver by giving more than one o
 
 ![chainofresponsibility](https://cloud.githubusercontent.com/assets/24522089/25088692/3d1812b2-2389-11e7-8bb7-7df1ee58813a.png)
 
-> Frequency of use: **High**
+> Frequency of use: **Medium low**
 
 ### The classes and objects participating in this pattern are:
 
