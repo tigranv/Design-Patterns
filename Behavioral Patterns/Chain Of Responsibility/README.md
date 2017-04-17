@@ -8,21 +8,15 @@ Avoid coupling the sender of a request to its receiver by giving more than one o
 
 ### The classes and objects participating in this pattern are:
 
-**AbstractFactory** (ContinentFactory)
-* declares an interface for operations that create abstract products 
+**Handler**   (Approver)
+* defines an interface for handling the requests
+* (optional) implements the successor link
 
-**ConcreteFactory** (AfricaFactory, AmericaFactory)
-* implements the operations to create concrete product objects 
+**ConcreteHandler**  (Director, VicePresident, President)
+* handles requests it is responsible for
+* can access its successor
+* if the ConcreteHandler can handle the request, it does so; otherwise it forwards the request to its successor
 
-**AbstractProduct** (Herbivore, Carnivore)
-* declares an interface for a type of product object 
-
-**Product** (Wildebeest, Lion, Bison, Wolf)
-* defines a product object to be created by the corresponding concrete factory  
-* implements the AbstractProduct interface
-
-**Client**  (AnimalWorld)
-* uses interfaces declared by AbstractFactory and AbstractProduct classes
 
 -------------------------------------------------------------------------------------------
 
