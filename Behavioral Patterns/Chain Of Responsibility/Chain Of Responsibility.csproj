@@ -44,6 +44,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="ConcreteHandler1.cs" />
+    <Compile Include="ConcreteHandler2.cs" />
     <Compile Include="Handler.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
